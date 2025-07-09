@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+.cursor/
+
+# PyTest cache
+.pytest_cache/
+
+# mypy/static analysis cache
+.mypy_cache/
+
+# VS Code, PyCharm & other IDE settings
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Generated documentation
+/docs/_build/
+
+# Outputs produced by examples and tests
+outputs/
+docs/
+tasks/
+tests/
+*.npy
+*.npz
+*.png
+*.csv
+
+# Logs
+*.log
+log*/
+
+# MacOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# pytest coverage
+htmlcov/
+.coverage
+
+# Misc
+*.swp
+*.swo 
